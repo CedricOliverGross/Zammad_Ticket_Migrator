@@ -1,7 +1,9 @@
 import json
 
 # Configuration
+# Input File
 INPUT_JSON_FILE = "id_mapping.json"
+# Output File
 OUTPUT_SQL_FILE = "update_metadata.sql"
 
 # Load JSON data

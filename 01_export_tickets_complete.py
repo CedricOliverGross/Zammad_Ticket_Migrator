@@ -15,7 +15,8 @@ HEADERS = {
 }
 
 # Configuration
-TICKET_ID_RANGE = range(11111, 22222)  # Ticket ID Range, add +1 to the second number
+# Ticket Range
+TICKET_ID_RANGE = range(11111, 22222)  # Ticket ID Range, add +1 to the second value
 # Output Files
 ATTACHMENTS_DIR = "attachments"
 JSON_OUTPUT_FILE = "tickets_full_with_attachments.json"
